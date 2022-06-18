@@ -6,5 +6,5 @@
 		httputils = "https://raw.githubusercontent.com/PentagonLP/httputils/main/packageinfo.ccpt",
 	dig = https://git.subsonics.nl/pootercraft/dig/raw/branch/master/packageinfo.ccpt
     },
-    ccptversion = "1.1"
+    ccptversion = "1.0"
 }
