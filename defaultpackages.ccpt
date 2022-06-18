@@ -3,7 +3,8 @@
         ccpt = "https://raw.githubusercontent.com/Hion-V/ccpt/main/packageinfo.ccpt",
         pprint = "https://raw.githubusercontent.com/PentagonLP/properprint/main/packageinfo.ccpt",
 		fileutils = "https://raw.githubusercontent.com/PentagonLP/fileutils/main/packageinfo.ccpt",
-		httputils = "https://raw.githubusercontent.com/PentagonLP/httputils/main/packageinfo.ccpt"
+		httputils = "https://raw.githubusercontent.com/PentagonLP/httputils/main/packageinfo.ccpt",
+	dig = https://git.subsonics.nl/pootercraft/dig/raw/branch/master/packageinfo.ccpt
     },
-    ccptversion = "1.0"
+    ccptversion = "1.1"
 }
