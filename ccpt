@@ -26,7 +26,7 @@ removed = 0
 function file_exists(filepath)
 	local f=io.open(filepath,"r")
 	if f~=nil then 
-		f.close()
+		f.close(f)
 		return true 
 	else 
 		return false 
